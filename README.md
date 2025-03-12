@@ -11,7 +11,8 @@
     </head>
   
   <body>
-  
+    <h1>CoffeeClub News</h1>
+    <h3>Welcome to CoffeeClub, your number one source of news for when you need information that isn't at all real. Below we have two very important articles, so please look through and enjoy!</h3>
   </body>
 
 
