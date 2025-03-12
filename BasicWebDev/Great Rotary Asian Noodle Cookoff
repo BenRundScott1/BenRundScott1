@@ -1,14 +1,13 @@
-<!doctype html>
-
-<html lang="en-US">
-    <head>
-      <title>The Great Rotary Asian Noodle Cookoff</title> 
-      <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta name="author" content="Ben Rund-Scott">
-      <meta name="keywords" content="local, news, coffee, club">
-      <meta name="description" content="The Great Rotary Asian Noodle Cookoff News Article">
-    </head>
+<!DOCTYPE html>
+    <html lang=en-us>
+        <head>
+          <title>The Great Rotary Asian Noodle Cookoff</title> 
+          <meta charset="utf-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <meta name="author" content="Ben Rund-Scott">
+          <meta name="keywords" content="local, news, coffee, club">
+          <meta name="description" content="The Great Rotary Asian Noodle Cookoff News Article">
+        </head>
   
   <body>
     <h1>The Great Rotary Asian Noodle Cookoff</h1>
