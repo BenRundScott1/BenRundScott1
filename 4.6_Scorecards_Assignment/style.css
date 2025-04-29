@@ -1,6 +1,6 @@
 table {
     background: #bef7e4;
 }
-table, th, td {
+* {
     border: 2px solid rgba(0,84,245,0.74);
 }
