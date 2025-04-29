@@ -1,1 +1,3 @@
-
+  section.grid-container {
+    display: grid;
+  }
