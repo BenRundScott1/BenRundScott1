@@ -1,20 +1,8 @@
-  section.grid-container {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    column-gap: 20px;
-    row-gap: 20px;
-  }
-  section div.grid-item-instructions {
-    background-color: rgba(224, 193, 143, 1);
-    border: 1px solid rgba(0, 0, 0, 0.8);
-    padding: 5px;
-    font-size: 1.2em;
-    text-align: center;
-  }
-  section div.grid-item-screenshot {
-    background-color: rgba(119, 90, 42, 1);
-    border: 3px solid rgba(0, 0, 0, 0.8);
-    padding: 5px;
-    font-size: 1.2em;
-    text-align: center;
-  }
+section.grid-container{
+  display:grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-row: 1fr 3fr;
+  column-gap:20px;
+  row-gap:20px;
+  grid-auto-flow: row
+}
