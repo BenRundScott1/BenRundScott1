@@ -11,3 +11,7 @@ section.grid-container{
   grid-column-start:auto;
   grid-column-end: span 2;
 }
+
+img {
+  width:500px;
+}
