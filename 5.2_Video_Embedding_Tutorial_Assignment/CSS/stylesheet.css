@@ -12,6 +12,6 @@ section.grid-container{
   grid-column-end: span 2;
 }
 
-img {
+section.div.img {
   width:500px;
 }
