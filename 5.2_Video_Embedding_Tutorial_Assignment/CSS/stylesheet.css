@@ -6,3 +6,8 @@ section.grid-container{
   row-gap:20px;
   grid-auto-flow: row
 }
+
+.puzzle{
+  grid-column-start:auto;
+  grid-column-end: span 2;
+}
