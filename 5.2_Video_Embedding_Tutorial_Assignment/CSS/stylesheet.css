@@ -7,7 +7,8 @@ section.grid-container{
   grid-auto-flow: row
 }
 
-.puzzle{
+.list{
   grid-column-start:auto;
   grid-column-end: span 2;
+  width:400px;
 }
