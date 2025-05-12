@@ -8,6 +8,7 @@ div.hdr_logo{
   width: 25px;
   height: 25px;
   background-image:url('Images/Chaos_Logo.png');
+  background-size: 25px;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: top left;
