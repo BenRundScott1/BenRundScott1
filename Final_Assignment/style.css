@@ -12,7 +12,7 @@ div.hdr_logo{
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: top left;
-  border: black solid 2px;
+  border: black solid 5px;
   margin: 20px;
   padding: 20px;  
 }
@@ -22,7 +22,7 @@ div.hdr_item{
   text-align: center;
   height: 250px;
   background-color: #8c98c7;
-  border: black solid 2px;
+  border: black solid 5px;
   margin: 20px;
   padding: 20px;
 }
