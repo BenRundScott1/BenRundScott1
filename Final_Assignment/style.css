@@ -7,6 +7,7 @@ div.hdr_item{
   text-align: center;
   height: 200px;
   background-color:#425ed8;
+  border:black solid 1px;
   margin: 10px;
   padding: 20px;
 }
