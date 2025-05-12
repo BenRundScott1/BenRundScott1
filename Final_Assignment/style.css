@@ -5,8 +5,8 @@ section.hdr_container{
 div.hdr_logo{
   flex: 1;
   text-align: center;
-  width: 50px;
-  height: 50px;
+  width: 25px;
+  height: 25px;
   background-image:url('Images/Chaos_Logo.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -19,7 +19,7 @@ div.hdr_logo{
 div.hdr_item{
   flex: 1;
   text-align: center;
-  height: 50px;
+  height: 250px;
   background-color: #8c98c7;
   border: black solid 5px;
   margin: 20px;
