@@ -2,6 +2,16 @@ section.hdr_container{
   display:flex;
 }
 
+div.hdr_logo{
+  flex: 1;
+  text-align: center;
+  height: 200px;
+  background-color: #8c98c7;
+  border: black solid 5px;
+  margin: 20px;
+  padding: 20px;  
+}
+
 div.hdr_item{
   flex: 1;
   text-align: center;
