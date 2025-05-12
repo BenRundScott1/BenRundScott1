@@ -10,6 +10,7 @@ div.hdr_logo{
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: top left;
+  background-height: 50px;
   border: black solid 5px;
   margin: 20px;
   padding: 20px;  
