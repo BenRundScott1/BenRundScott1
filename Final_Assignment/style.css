@@ -6,8 +6,8 @@ div.hdr_item{
   flex: 1;
   text-align: center;
   height: 200px;
-  background-color:#425ed8;
-  border:black solid 1px;
+  background-color: #425ed8;
+  border: black solid 5px;
   margin: 20px;
   padding: 20px;
 }
